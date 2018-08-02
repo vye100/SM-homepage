@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/32/Report_hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Side-Navigation-WiFi-32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/32/Report_hover">
+            <rect id="Rectangle" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="32" height="32"></rect>
+            <g id="Reports" transform="translate(8.000000, 6.000000)" stroke-linecap="round" stroke-width="1.2" stroke="#FFF" stroke-linejoin="round">
+                <polyline id="Stroke-51" points="15.6396286 5.9185 15.6396286 19.9477857 0.208938869 19.9477857 0.208938869 0.436357143 9.78100817 0.436357143"></polyline>
+                <polygon id="Stroke-52" points="15.6396286 5.9185 9.78100817 5.9185 9.78100817 0.436357143"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

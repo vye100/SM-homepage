@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/32/Home_hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Side-Navigation-WiFi-32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/32/Home_hover">
+            <rect id="Rectangle" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="32" height="32"></rect>
+            <g id="Group-2" transform="translate(5.000000, 7.000000)" stroke-linecap="round" stroke-width="1.2" stroke="#FFF" stroke-linejoin="round">
+                <polyline id="Shape" points="0 7.671125 10.9594375 0 21.61775 7.671125"></polyline>
+                <path d="M1.73525,8.8275 L1.73525,8.8295625 L1.73525,17.9513125 L7.756375,17.9513125 C7.7378125,17.8145 7.715125,17.6790625 7.715125,17.53675 L7.715125,11.3760625 C7.715125,9.6751875 9.0935625,8.29675 10.795125,8.29675 C12.496,8.29675 13.875125,9.675875 13.875125,11.3760625 L13.875125,17.53675 C13.875125,17.678375 13.85175,17.8138125 13.8331875,17.9513125 L19.855,17.9513125 L19.855,8.8295625" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
